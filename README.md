@@ -1,3 +1,5 @@
+IMPORTANT: Scoreloop anounced that it'll shutdown on December 1st 2014.
+
 openfl-scoreloop
 ================
 
